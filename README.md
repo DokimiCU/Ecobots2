@@ -24,7 +24,7 @@ Bots act like living things, growing reproducing, dying, evolving.
 Bots capture energy, produce waste, and create offspring which inherit their genome. 
 - Metabolic rate: cycles through life processes faster or slower.
 - Energy: bots must gain energy to survive and grow.
-- Waste: bots use of energy produces toxic byproducts that must be excreted (either as gas, or liquid)
+- Waste: bots use of energy produces toxic byproducts that must be excreted (either as gas, or liquid, or solid)
 - Age: ticks up with each metabolic cycle. Added on as a cost to basal rate.
 - Basal rate: how much energy is used and waste is produced per metabolic cycle.
 - Max Storage: how much energy and waste it can store, and how much it requires to create an offspring.
