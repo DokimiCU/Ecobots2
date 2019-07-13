@@ -29,7 +29,7 @@ Bots capture energy, produce waste, and create offspring which inherit their gen
 - Basal rate: how much energy is used and waste is produced per metabolic cycle.
 - Max Storage: how much energy and waste it can store, and how much it requires to create an offspring.
 - Parental investment: parents energy given to offspring to get the child started out.
-- Spores: can spread by spores as well as by clonal spreading.
+- Spores: can spread by spores as well as by clonal spreading. Spores have rudimentary swarm intelligence.
 - Clonal: clonal bots exchange resources and waste with each other, acting as a co-operative superorganism.
 - Support structures: bots with support structures can create useful structures and specialized bots.
   - phloem: "pipes" for energy and waste exchange.
